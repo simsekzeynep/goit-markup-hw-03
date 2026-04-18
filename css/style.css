@@ -1,0 +1,158 @@
+h1, h2, h3, p, ul{
+  margin:0;
+  padding: 0;
+}
+body {
+  font-family: "Roboto", sans-serif;
+  color: #434455;
+  font-size: 16px;
+  line-height: 1.5;
+}
+a {
+  text-decoration: none;
+}
+.web {
+  color: #4d5ae5;
+}
+.studio {
+  color: #2e2f42;
+}
+.logo {
+  font-family: "Raleway", sans-serif;
+  font-size: 18px;
+  line-height: 1.16667;
+  letter-spacing: 0.03em;
+}
+.nav-link {
+  color: #2e2f42;
+  font-weight: 500;
+}
+.nav-link:hover,
+.nav-link:focus {
+  color: #404bbf;
+}
+
+address a {
+  color: #434455;
+}
+address a:hover,
+address a:focus {
+  color: #404bbf;
+}
+h1 {
+  font-size: 56px;
+  line-height: 1.07143;
+  text-align: center;
+  color: #fff;
+  padding-bottom: 48px;
+}
+.hero {
+  background-color: #2e2f42;
+  padding: 188px 472px;
+   text-align: center;
+}
+button {
+  font-weight: 500;
+  color: #fff;
+  line-height: 1.5;
+    letter-spacing: 0.04em;
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+  background-color: #4d5ae5;
+  cursor: pointer;
+  padding: 16px 32px;
+  border: 0;
+  border-radius: 4px;
+}
+button:hover,
+button:focus {
+  background-color: #404bbf;
+}
+.section-2 {
+  background: #f4f4fd;
+}
+h3 {
+  font-size: 20px;
+  line-height: 1.2;
+  color: #2e2f42;
+}
+h2 {
+  font-size: 36px;
+  line-height: 1.11111;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+}
+.footer-studio,
+footer {
+  color: #f4f4fd;
+}
+footer {
+  background-color: #2e2f42;
+  padding: 100px 0;
+  padding-left: 156px;
+}
+ul{
+  list-style-type: none;
+}
+.container{
+  width: 1440px;
+  margin: 0 auto;
+}
+.menu{
+  display: flex;
+  align-items: center;
+  padding: 24px 156px;
+}
+nav ul,
+address
+{
+  display: flex;
+  gap: 40px;
+}
+address{
+margin-left: auto;
+}
+section ul{
+  display: flex;
+    gap:24px;
+}
+section{
+    padding: 120px 156px;
+}
+.our-portfolio ul{
+     flex-wrap: wrap;
+     row-gap: 48px;
+}
+ img{
+  display:block;
+ max-width:100%;
+ height:auto;
+}
+h2{
+padding-bottom: 72px;
+}
+.section-2 ul li{
+  background-color: #fff;
+  box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
+  text-align: center;
+}
+.card-heading{
+  padding-top: 32px;
+  padding-bottom: 8px;
+}
+.card-text{
+  padding-bottom: 32px;
+}
+.foot{
+  padding-bottom: 16px;
+}
+.section1-heading{
+  padding-bottom: 8px;
+}
+nav{
+    padding-left: 76px;
+}
+footer p{
+  width: 264px;
+  padding-top: 16px;
+}
