@@ -95,7 +95,7 @@ ul{
   list-style-type: none;
 }
 .container{
-  width: 1440px;
+  width: 1158px;
   margin: 0 auto;
 }
 .menu{
@@ -143,9 +143,6 @@ padding-bottom: 72px;
 .card-text{
   padding-bottom: 32px;
 }
-.foot{
-  padding-bottom: 16px;
-}
 .section1-heading{
   padding-bottom: 8px;
 }
@@ -155,4 +152,10 @@ nav{
 footer p{
   width: 264px;
   padding-top: 16px;
+}
+.portfolio-box{
+  border-bottom: 1px solid #e7e9fc;
+    border-left: 1px solid #e7e9fc;
+    border-right: 1px solid #e7e9fc;
+    padding-left: 16px;
 }
