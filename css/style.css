@@ -55,8 +55,10 @@ h1 {
   margin: 0 auto;
   justify-content: center;
 }
-.hero {
+.hero-background {
   background-color: #2e2f42;
+}
+.hero {
   padding: 188px 0;
   text-align: center;
 }
@@ -76,7 +78,7 @@ button:hover,
 button:focus {
   background-color: #404bbf;
 }
-.section-2 {
+.ourteam {
   background: #f4f4fd;
 }
 h3 {
@@ -107,11 +109,13 @@ ul {
   width: 1158px;
   margin: 0 auto;
 }
+.menu-header {
+  border-bottom: 1px solid #e7e9fc;
+}
 .menu {
   display: flex;
   align-items: center;
   padding: 24px 0;
-  border-bottom: 1px solid #e7e9fc;
   justify-content: center;
 }
 nav ul,
